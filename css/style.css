@@ -105,3 +105,28 @@ h1{
   background-color: #70B52E;
   font-size: 15px;
 }
+
+.description-container{
+  width: 100%;
+  height: 150px;
+  background-color: #CDCDCD;
+  position:relative;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.description{
+  text-align: center;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.payoff-description{
+  padding-top: 15px;
+  font-size: 15px;
+  font-weight:200;
+}
